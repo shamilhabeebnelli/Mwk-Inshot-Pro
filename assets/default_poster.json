@@ -1,0 +1,129 @@
+[
+  {
+    "productID": "com.camerasideas.InstaShot.sticker_lovewins",
+    "titleColor": "#FF000000",
+    "imageURL": "icon_poster_default_lovewins",
+    "language": "zh-rTW",
+    "textMap": {
+      "en": {
+        "title": "LOVE WINS"
+      },
+      "zh": {
+        "title": "真爱无敌"
+      },
+      "zh-Hant": {
+        "title": "真愛無敵"
+      }
+    }
+  },
+  {
+    "productID": "com.camerasideas.InstaShot.animation_sticker_happyhalloween",
+    "titleColor": "#FFFFFFFF",
+    "imageURL": "icon_poster_default_happyhalloween",
+    "textMap": {
+      "en": {
+        "title": "HAPPY HALLOWEEN"
+      },
+      "zh": {
+        "title": "万圣节快乐"
+      },
+      "zh-Hant": {
+        "title": "萬聖節快樂"
+      },
+      "vi": {
+        "title": "HALLOWEEN VUI VẺ"
+      },
+      "th": {
+        "title": "สุขสันต์วันฮาโลวีน"
+      },
+      "id": {
+        "title": "SELAMAT HALLOWEEN"
+      },
+      "ko": {
+        "title": "해피 할로윈"
+      },
+      "ja": {
+        "title": "ハッピーハロウィン"
+      },
+      "fr": {
+        "title": "JOYEUX HALLOWEEN"
+      },
+      "de": {
+        "title": "FRÖHLICHES HALLOWEEN"
+      },
+      "tr": {
+        "title": "MUTLU CADILAR BAYRAMI"
+      },
+      "pt": {
+        "title": "FELIZ DIA DAS BRUXAS"
+      },
+      "es": {
+        "title": "FELIZ HALLOWEEN"
+      },
+      "it": {
+        "title": "BUON HALLOWEEN"
+      },
+      "ar": {
+        "title": "عيد رعب سعيد"
+      },
+      "ru": {
+        "title": "СЧАСТЛИВОГО ХЭЛЛОУИНА"
+      }
+    }
+  },
+  {
+    "productID": "com.camerasideas.instashot.dailyrecipes",
+    "titleColor": "#FF2D6749",
+    "imageURL": "icon_poster_default_dailyrecipes",
+    "textMap": {
+      "en": {
+        "title": "Daily Recipes"
+      },
+      "zh": {
+        "title": "每日食谱"
+      },
+      "zh-Hant": {
+        "title": "每日食譜"
+      },
+      "vi": {
+        "title": "Công thức hàng ngày"
+      },
+      "th": {
+        "title": "สูตรประจำวัน"
+      },
+      "id": {
+        "title": "Resep Harian"
+      },
+      "ko": {
+        "title": "매일 조리법"
+      },
+      "ja": {
+        "title": "毎日のレシピ"
+      },
+      "fr": {
+        "title": "Recettes du Jour"
+      },
+      "de": {
+        "title": "Tägliches Rezept"
+      },
+      "tr": {
+        "title": "Günlük Tarifler"
+      },
+      "pt": {
+        "title": "Receitas Diárias"
+      },
+      "es": {
+        "title": "Recetas Diarias"
+      },
+      "it": {
+        "title": "Ricetta Giornaliera"
+      },
+      "ar": {
+        "title": "الوصفات اليومية"
+      },
+      "ru": {
+        "title": "Ежедневные Рецепты"
+      }
+    }
+  }
+]
